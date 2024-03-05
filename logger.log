@@ -1,0 +1,36 @@
+INFO:root:В скрипт передано: Namespace(file_name=[])
+INFO:root:Аргументы не переданы(имя файла по умолчанию): subjects.csv
+INFO:root:В скрипт передано: Namespace(file_name=[])
+INFO:root:Аргументы не переданы(имя файла по умолчанию): subjects.csv
+INFO:root:В скрипт передано: Namespace(file_name=[])
+INFO:root:Аргументы не переданы(имя файла по умолчанию): subjects.csv
+INFO:root:В скрипт передано: Namespace(file_name=[])
+INFO:root:Аргументы не переданы(имя файла по умолчанию): subjects.csv
+INFO:root:Средний балл: 4.5
+INFO:root:Средний результат по тестам по математике: 85.0
+INFO:root:Студент: Иван Иванов
+Предметы: Математика	Физика	История	Литература, Математика, История
+INFO:root:В скрипт передано: Namespace(file_name=[])
+INFO:root:Аргументы не переданы(имя файла по умолчанию): subjects.csv
+INFO:root:Средний балл: 4.5
+INFO:root:Средний результат по тестам по математике: 85.0
+INFO:root:Студент: Иван Иванов
+Предметы: Математика, История
+INFO:root:В скрипт передано: Namespace(file_name=['subjects.csv'])
+INFO:root:Переданное имя файла: subjects.csv
+INFO:root:Средний балл: 4.5
+INFO:root:Средний результат по тестам по математике: 85.0
+INFO:root:Студент: Иван Иванов
+Предметы: Математика, История
+INFO:root:В скрипт передано: Namespace(file_name=[])
+INFO:root:Аргументы не переданы(имя файла по умолчанию): subjects.csv
+WARNING:root:Оценка должна быть целым числом от 2 до 5
+INFO:root:В скрипт передано: Namespace(file_name=['subjects.csv'])
+INFO:root:Переданное имя файла: subjects.csv
+WARNING:root:Оценка должна быть целым числом от 2 до 5
+INFO:root:В скрипт передано: Namespace(file_name=[])
+INFO:root:Аргументы не переданы(имя файла по умолчанию): subjects.csv
+INFO:root:Средний балл: 4.5
+INFO:root:Средний результат по тестам по математике: 85.0
+INFO:root:Студент: Иван Иванов
+Предметы: Математика, История
