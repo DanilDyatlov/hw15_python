@@ -11,7 +11,12 @@ def create_student():
     return student
 
 
-def test_employee_full_name():
+def test_str():
+    student = create_student()
+    assert str(student) == 'Студент: Иван Иванов\nПредметы: Математика, История'
+
+
+def test_name():
     student = Student("Иван Иванов", "subjects.csv")
     assert student.name == "Иван Иванов"
 
@@ -26,11 +31,6 @@ def test_average_test_score():
     student = create_student()
     average_test_score = student.get_average_test_score("Математика")
     assert average_test_score == 85.0
-
-
-def test_str():
-    student = create_student()
-    assert str(student) == 'Студент: Иван Иванов\nПредметы: Математика, История'
 
 
 if __name__ == '__main__':
